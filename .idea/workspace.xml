@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587096da-86d2-4b8a-aa11-415459eea173" name="Default Changelist" comment="" />
+    <list default="true" id="587096da-86d2-4b8a-aa11-415459eea173" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiongtu/battle/BattleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiongtu/battle/BattleClient.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +22,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xiongtu/battle/BattleClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="45" />
+            <state relative-caret-position="1950">
+              <caret line="89" column="26" lean-forward="true" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
               <folding>
-                <element signature="method#update#0;class#BattleClient#0" />
-                <element signature="e#262#320#1" />
-                <element signature="method#main#0;class#BattleClient#0" />
+                <element signature="e#354#425#1" />
                 <element signature="class#PaintThread#0;class#BattleClient#0" />
                 <element signature="method#run#0;class#PaintThread#0;class#BattleClient#0" />
-                <element signature="e#1142#1356#1" />
-                <element signature="e#1191#1250#0" />
-                <element signature="e#1282#1342#0" />
+                <element signature="e#1654#1868#1" />
+                <element signature="e#1703#1762#0" />
+                <element signature="e#1794#1854#0" />
               </folding>
             </state>
           </provider>
@@ -43,6 +44,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,30 +70,20 @@
         <subPane>
           <expand>
             <path>
-              <item name="tankwar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tankwar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tankwar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tankwar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tankwar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tankwar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="battle" type="462c0819:PsiDirectoryNode" />
+              <item name="R_B_Battle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R_B_Battle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546775875431" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546779025119" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -138,10 +132,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="877" extended-state="7" />
+    <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23174816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23509713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -151,7 +145,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39892906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -195,17 +189,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xiongtu/battle/BattleClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="45" />
+        <state relative-caret-position="1950">
+          <caret line="89" column="26" lean-forward="true" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
           <folding>
-            <element signature="method#update#0;class#BattleClient#0" />
-            <element signature="e#262#320#1" />
-            <element signature="method#main#0;class#BattleClient#0" />
+            <element signature="e#354#425#1" />
             <element signature="class#PaintThread#0;class#BattleClient#0" />
             <element signature="method#run#0;class#PaintThread#0;class#BattleClient#0" />
-            <element signature="e#1142#1356#1" />
-            <element signature="e#1191#1250#0" />
-            <element signature="e#1282#1342#0" />
+            <element signature="e#1654#1868#1" />
+            <element signature="e#1703#1762#0" />
+            <element signature="e#1794#1854#0" />
           </folding>
         </state>
       </provider>
